@@ -1,0 +1,3 @@
+class IEntity {
+  int id;
+}
